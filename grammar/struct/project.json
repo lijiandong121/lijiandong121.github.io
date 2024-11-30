@@ -431,7 +431,7 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.1,
+                "duration": 1.1,
                 "project_name": "struct",
                 "in_project_video": "video_0020.mp4",
                 "in_project_thumbnail": "thumb_0020.jpg",
@@ -1004,6 +1004,594 @@
                 "in_project_thumbnail": "thumb_0047.jpg",
                 "in_project_id": 47,
                 "parent_id": 47
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 48,
+                "name": "47",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0048_47.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0048.mp4",
+                "in_project_thumbnail": "thumb_0048.jpg",
+                "in_project_id": 48,
+                "parent_id": 48
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 49,
+                "name": "48",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0049_48.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "struct",
+                "in_project_video": "video_0049.mp4",
+                "in_project_thumbnail": "thumb_0049.jpg",
+                "in_project_id": 49,
+                "parent_id": 49
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 50,
+                "name": "49",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0050_49.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "struct",
+                "in_project_video": "video_0050.mp4",
+                "in_project_thumbnail": "thumb_0050.jpg",
+                "in_project_id": 50,
+                "parent_id": 50
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 51,
+                "name": "50",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0051_50.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0051.mp4",
+                "in_project_thumbnail": "thumb_0051.jpg",
+                "in_project_id": 51,
+                "parent_id": 51
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 52,
+                "name": "51",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0052_51.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0052.mp4",
+                "in_project_thumbnail": "thumb_0052.jpg",
+                "in_project_id": 52,
+                "parent_id": 52
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 53,
+                "name": "52",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0053_52.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0053.mp4",
+                "in_project_thumbnail": "thumb_0053.jpg",
+                "in_project_id": 53,
+                "parent_id": 53
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 54,
+                "name": "53",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0054_53.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.1,
+                "project_name": "struct",
+                "in_project_video": "video_0054.mp4",
+                "in_project_thumbnail": "thumb_0054.jpg",
+                "in_project_id": 54,
+                "parent_id": 54
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 55,
+                "name": "54",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0055_54.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0055.mp4",
+                "in_project_thumbnail": "thumb_0055.jpg",
+                "in_project_id": 55,
+                "parent_id": 55
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 56,
+                "name": "55",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0056_55.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 5.1,
+                "project_name": "struct",
+                "in_project_video": "video_0056.mp4",
+                "in_project_thumbnail": "thumb_0056.jpg",
+                "in_project_id": 56,
+                "parent_id": 56
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 57,
+                "name": "56",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0057_56.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0057.mp4",
+                "in_project_thumbnail": "thumb_0057.jpg",
+                "in_project_id": 57,
+                "parent_id": 57
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 58,
+                "name": "57",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0058_57.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.7,
+                "project_name": "struct",
+                "in_project_video": "video_0058.mp4",
+                "in_project_thumbnail": "thumb_0058.jpg",
+                "in_project_id": 58,
+                "parent_id": 58
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 59,
+                "name": "58",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0059_58.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0059.mp4",
+                "in_project_thumbnail": "thumb_0059.jpg",
+                "in_project_id": 59,
+                "parent_id": 59
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 60,
+                "name": "59",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0060_59.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.7,
+                "project_name": "struct",
+                "in_project_video": "video_0060.mp4",
+                "in_project_thumbnail": "thumb_0060.jpg",
+                "in_project_id": 60,
+                "parent_id": 60
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 61,
+                "name": "60",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0061_60.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0061.mp4",
+                "in_project_thumbnail": "thumb_0061.jpg",
+                "in_project_id": 61,
+                "parent_id": 61
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 62,
+                "name": "61",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0062_61.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0062.mp4",
+                "in_project_thumbnail": "thumb_0062.jpg",
+                "in_project_id": 62,
+                "parent_id": 62
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 63,
+                "name": "62",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0063_62.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0063.mp4",
+                "in_project_thumbnail": "thumb_0063.jpg",
+                "in_project_id": 63,
+                "parent_id": 63
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 64,
+                "name": "63",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0064_63.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0064.mp4",
+                "in_project_thumbnail": "thumb_0064.jpg",
+                "in_project_id": 64,
+                "parent_id": 64
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 65,
+                "name": "64",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0065_64.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0065.mp4",
+                "in_project_thumbnail": "thumb_0065.jpg",
+                "in_project_id": 65,
+                "parent_id": 65
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 66,
+                "name": "65",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0066_65.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.6,
+                "project_name": "struct",
+                "in_project_video": "video_0066.mp4",
+                "in_project_thumbnail": "thumb_0066.jpg",
+                "in_project_id": 66,
+                "parent_id": 66
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 67,
+                "name": "66",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0067_66.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0067.mp4",
+                "in_project_thumbnail": "thumb_0067.jpg",
+                "in_project_id": 67,
+                "parent_id": 67
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 68,
+                "name": "67",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0068_67.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0068.mp4",
+                "in_project_thumbnail": "thumb_0068.jpg",
+                "in_project_id": 68,
+                "parent_id": 68
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 69,
+                "name": "68",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0069_68.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0069.mp4",
+                "in_project_thumbnail": "thumb_0069.jpg",
+                "in_project_id": 69,
+                "parent_id": 69
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 70,
+                "name": "69",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0070_69.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0070.mp4",
+                "in_project_thumbnail": "thumb_0070.jpg",
+                "in_project_id": 70,
+                "parent_id": 70
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 71,
+                "name": "70",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0071_70.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0071.mp4",
+                "in_project_thumbnail": "thumb_0071.jpg",
+                "in_project_id": 71,
+                "parent_id": 71
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 72,
+                "name": "71",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0072_71.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.6,
+                "project_name": "struct",
+                "in_project_video": "video_0072.mp4",
+                "in_project_thumbnail": "thumb_0072.jpg",
+                "in_project_id": 72,
+                "parent_id": 72
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 73,
+                "name": "72",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0073_72.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0073.mp4",
+                "in_project_thumbnail": "thumb_0073.jpg",
+                "in_project_id": 73,
+                "parent_id": 73
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 74,
+                "name": "73",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0074_73.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0074.mp4",
+                "in_project_thumbnail": "thumb_0074.jpg",
+                "in_project_id": 74,
+                "parent_id": 74
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 75,
+                "name": "74",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "D:\\repos\\ManimProgramAnimation\\playgroud\\grammer\\struct\\media\\videos\\struct\\1080p60\\sections\\Main_0075_74.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.1,
+                "project_name": "struct",
+                "in_project_video": "video_0075.mp4",
+                "in_project_thumbnail": "thumb_0075.jpg",
+                "in_project_id": 75,
+                "parent_id": 75
             }
         ]
     }
