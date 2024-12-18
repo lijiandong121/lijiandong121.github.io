@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+    <style>
+        a{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: italic;
+            color: brown;
+        }
+    </style>
+</head>
+<body class="p-3 m-0 border-0 bd-example m-0 border-0 bd-example-row">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">字符函数</div>
+        </div>
+        <pre class="prettyprint">
+            <code class="c++">
+                int isalnum(int c);//检查字符是否为字母或数字
+                int isalpha(int c);//检查字符是否为字母
+                int isdigit(int c);//检查字符是否为数字
+                int islower(int c);//检查一个字符是否是小写字母
+                int ispunct(int c);//检查一个字符是否是标点字符
+                int isspace(int c);//检查一个字符是否是空白字符(空格，回车，换行，制表符，进纸符)
+                int isupper(int c);//检查一个字符是否是大写字母
+                int tolower(int c);//将字符转换成小写
+                int toupper(int c);//将字符转换成大写
+            </code>
+        </pre>
+
+
+        <div class="row text-center">
+            <div class="col">数学函数</div>
+        </div>
+        <pre class="prettyprint">
+            <code class="c++">
+                //计算浮点数值 num 的绝对值
+                float       abs( float num );
+                double      abs( double num );
+                long double abs( long double num );
+
+
+                //计算 num 的最接近整数（以浮点数格式），中点情况舍入为远离零
+                float       round ( float num );
+                double      round ( double num );
+                long double round ( long double num );
+            </code>
+        </pre>
+    </div>
+
+</body>
+</html>
