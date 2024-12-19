@@ -23,15 +23,15 @@
         </div>
         <pre class="prettyprint">
             <code class="c++">
-                int isalnum(int c);//检查字符是否为字母或数字
-                int isalpha(int c);//检查字符是否为字母
-                int isdigit(int c);//检查字符是否为数字
-                int islower(int c);//检查一个字符是否是小写字母
-                int ispunct(int c);//检查一个字符是否是标点字符
-                int isspace(int c);//检查一个字符是否是空白字符(空格，回车，换行，制表符，进纸符)
-                int isupper(int c);//检查一个字符是否是大写字母
-                int tolower(int c);//将字符转换成小写
-                int toupper(int c);//将字符转换成大写
+                int isalnum(int c); //检查字符是否为字母或数字
+                int isalpha(int c); //检查字符是否为字母
+                int isdigit(int c); //检查字符是否为数字
+                int islower(int c); //检查一个字符是否是小写字母
+                int ispunct(int c); //检查一个字符是否是标点字符
+                int isspace(int c); //检查一个字符是否是空白字符(空格，回车，换行，制表符，进纸符)
+                int isupper(int c); //检查一个字符是否是大写字母
+                int tolower(int c); //将字符转换成小写
+                int toupper(int c); //将字符转换成大写
             </code>
         </pre>
 
@@ -46,11 +46,60 @@
                 double      abs( double num );
                 long double abs( long double num );
 
-
                 //计算 num 的最接近整数（以浮点数格式），中点情况舍入为远离零
                 float       round ( float num );
                 double      round ( double num );
                 long double round ( long double num );
+
+                //计算 base 的 exp 次幂
+                float       pow ( float base, float exp );
+                double      pow ( double base, double exp );
+                long double pow ( long double base, long double exp );
+                
+                //平方根
+                float       sqrt ( float num );
+                double      sqrt ( double num );
+                long double sqrt ( long double num );
+
+                //计算不小于 num 的最小整数
+                float       ceil ( float num );
+                double      ceil ( double num );
+                long double ceil ( long double num );
+
+                //计算不大于 num 的最大整数
+                float       floor ( float num );
+                double      floor ( double num );
+                long double floor ( long double num );
+            </code>
+        </pre>
+
+        <div class="row text-center">
+            <div class="col">算法函数（多为模板函数，为方便初学者阅读，简化了写法）</div>
+        </div>
+        <pre class="prettyprint">
+            <code class="c++">
+                min(a,b); //返回a,b两者中小的那个
+                max(a,b); //返回a,b两者中大的那个
+            </code>
+        </pre>
+
+
+        <div class="row text-center">
+            <div class="col">string</div>
+        </div>
+        <pre class="prettyprint">
+            <code class="c++">
+                getline(cin, s); //从cin读取一行输入
+                s.empty()  //s为空，返回true, 否则返回false ,
+                s.size()  //返回s中字符的个数,
+                s[n]  //返回s中下标为n的字符，下标从0计起,
+                s1 + s2  //返回s1和s2连接后的结果,
+                ==, !=  //'判断s1和s2所含的字符是否完全一样',
+                <,<=,>,>=  //利用字符在字典中的顺序进行比较,
+                s.push_back(c)  //在s末尾追加一个字符c,
+                s1.insert(pos,s2)  //在s1下标为pos的位置插入s2,
+                s1.find(s2,pos)  //从s1下标为pos的位置查找子串s2,若有该子串，返回子串在s1的起始下标，否则返回string::npos,
+                s.substr(pos,len)  //返回s中从pos下标开始的len个字符形成的字符串            
             </code>
         </pre>
     </div>
